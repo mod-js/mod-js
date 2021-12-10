@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @mod-js (Mark)
 
-👀 I’m interested in React, JavaScript, Jamstack, Gatsby, AWS, Netlify, and all things modern web!
+👀 I’m interested in React, JavaScript, Jamstack, Gatsby, Netlify, all things modern web! AWS, Linux, Bash Scripts, PowerShell, IDAM, COTS Apps Development.
 
 ## 📫 How to reach me:
 
@@ -24,7 +24,7 @@
 + <a href="https://www.walkerscartlodge.co.uk/" target="_blank" rel="noreferrer">Walkers Cart Lodges</a>
   + React
   + Gatsby
-  + gatsby-plugin-image
+  + gatsby-image
   + Netlify
   + Netlify CMS
   + MS Power Automate Web Hooks
