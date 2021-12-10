@@ -1,12 +1,14 @@
-👋 Hi, I’m @mod-js (Mark) 👀 I’m interested in React, JavaScript, Jamstack, Gatsby, AWS, Netlify, and all things modern web!
+# 👋 Hi, I’m @mod-js (Mark)
 
-📫 How to reach me:
+👀 I’m interested in React, JavaScript, Jamstack, Gatsby, AWS, Netlify, and all things modern web!
+
+## 📫 How to reach me:
 
 + [Email](mailto:hello@modjs.io)
 
 + [LinkedIn](https://www.linkedin.com/in/mark-court/)
 
-🛠️ Latest web dev work:
+## 🛠️ Latest web dev work:
 
 + <a href="https://ninelivesdesign.netlify.app/" target="_blank" rel="noreferrer">Nine Lives Interior Design</a>
   + React
